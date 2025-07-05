@@ -175,4 +175,4 @@ The application tracks:
 *Built with ❤️ for the web scraping community*
 
 </div>
-\`\`\`
+
