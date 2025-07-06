@@ -25,8 +25,6 @@ The project aims to simplify structured **web crawling** and **intelligent conte
 
 ## 🖥️ Example Screenshot
 
-> Add your screenshots in an `assets/` directory and link them like below:
-
 ![Web Crawler Home](assets/demo1.png)
 ![Web Crawler Crawling ](assets/demo2.png)
 ![Links Display](assets/demo3.png)
