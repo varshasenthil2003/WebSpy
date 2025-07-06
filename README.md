@@ -1,7 +1,3 @@
-Based on your uploaded `python_web.py` file, here's a **GitHub-ready README** modeled exactly like your previous **LegalAI Pro** template but tailored to this **Advanced Web Crawler & Scraper** project.
-
----
-
 # 🕷️ WEBSPY - Advanced Web Crawler & Scraper
 
 **WEBSPY** is a professional-grade, intelligent Streamlit web app that allows users to:
