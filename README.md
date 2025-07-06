@@ -27,9 +27,9 @@ The project aims to simplify structured **web crawling** and **intelligent conte
 
 > Add your screenshots in an `assets/` directory and link them like below:
 
-![Web Crawler Demo](assets/demo1.jpg)
-![Web Crawler Dashboard](assets/demo2.jpg)
-![Content Scraper](assets/demo3.jpg)
+![Web Crawler Home](assets/demo1.png)
+![Web Crawler Crawling ](assets/demo2.png)
+![Links Display](assets/demo3.png)
 
 ---
 
